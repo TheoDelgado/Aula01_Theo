@@ -1,0 +1,3 @@
+/mnt/c/Users/WESTT/Documents/Aula01_Theo/build/CMakeFiles/main.dir
+/mnt/c/Users/WESTT/Documents/Aula01_Theo/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/WESTT/Documents/Aula01_Theo/build/CMakeFiles/rebuild_cache.dir
